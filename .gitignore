@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# StockMonitor local runtime/build artifacts
+*.log
+build/
+dist/
+release/
+release_build/
+onefile_build/
+onefile_release/
+__pycache__/
+.venv/
+# Keep the reproducible packaging spec and runtime hook in source control.
+!StockMonitor_onefile.spec
+!qt_runtime_hook.py

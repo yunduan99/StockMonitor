@@ -1,0 +1,19 @@
+{
+  "font_size": 8,
+  "font_family": "Microsoft YaHei",
+  "color_up": "#C0C0C0",
+  "color_down": "#C0C0C0",
+  "color_flat": "#C0C0C0",
+  "request_url": "http://hq.sinajs.cn/list=",
+  "request_token": "",
+  "refresh_interval": 10,
+  "query_time_ranges": [
+    "09:15-11:30",
+    "14:30-15:00"
+  ],
+  "always_on_top": true,
+  "minimize_hotkey": "alt+z",
+  "close_hotkey": "alt+x",
+  "window_pos_x": 0,
+  "window_pos_y": 920
+}

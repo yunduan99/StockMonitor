@@ -1,0 +1,14 @@
+[
+  {
+    "code": "sh600519",
+    "alias": "示例股票A",
+    "cost_price": 1000.00,
+    "shares": 0
+  },
+  {
+    "code": "sz000001",
+    "alias": "示例股票B",
+    "cost_price": 10.00,
+    "shares": 0
+  }
+]
